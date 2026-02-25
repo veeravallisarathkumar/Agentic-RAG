@@ -1,0 +1,30 @@
+# Core LangChain ecosystem
+langchain>=0.2.14
+langchain-core>=0.2.30
+langchain-community>=0.2.12
+langchain-openai>=0.1.22
+langchain-text-splitters>=0.2.2
+
+# Agent framework
+langgraph>=0.2.20
+
+# LLM
+openai>=1.40.0
+langchain>=0.2.0
+langgraph>=0.2.0
+langchain-google-genai>=2.0.0
+
+# Vector DB
+faiss-cpu>=1.8.0
+
+# Utilities
+pydantic>=2.7
+python-dotenv>=1.0.1
+
+# Web scraping
+beautifulsoup4>=4.12.3
+requests>=2.32.3
+wikipedia>=1.4.0
+
+# App
+streamlit>=1.36.0
